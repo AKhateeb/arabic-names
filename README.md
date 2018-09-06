@@ -1,2 +1,2 @@
 # arabic-names
-400 unique names are most popular in Arabic regions
+Most Popular Arabic Names useful for populating database and other applications
